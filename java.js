@@ -1,0 +1,10 @@
+let message = "asdkasdaskdasd askdkasldalksd as dklasjdlkasd askdlasdlkasd";
+console.log(message);
+let txt = "asdasd asd asd asd asd asd asd ";
+console.log(txt);
+let txt1 = "asdasd";
+console.log(txt);
+let txt2 = "asdasd";
+console.log(txt2);
+let txt3 = "asdasd";
+console.log(txt3);
