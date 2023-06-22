@@ -10,6 +10,6 @@
 // console.log(o);
 let x = prompt("Too oruulnauu");
 2000;
-x > 5000 && x < 30000 ? (x = x * 1.15) : (x = x * 1.2);
+x >= 5000 && x <= 30000 ? (x = x * 1.15) : (x = x * 1.2);
 console.log(x);
 3000;
