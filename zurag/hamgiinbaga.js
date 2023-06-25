@@ -6,4 +6,4 @@ var number3 = 10;
 var number4 = 12;
 
 var minimum = Math.min(number1, number2, number3, number4);
-console.log("Minimum value:", minimum);
+console.log("хамгийн бага утга:", minimum);
