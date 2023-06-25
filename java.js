@@ -8,7 +8,7 @@
 // let o = 3;
 // o == 5 ? (o = o + 3) : o == 4 ? (o = 0) : (o = 2);
 // console.log(o);
-let x = prompt("Too oruulnauu");
+let x = prompt("hoolnii vnee oruulna uuu");
 2000;
 x >= 5000 && x <= 30000 ? (x = x * 1.15) : (x = x * 1.2);
 console.log(x);
