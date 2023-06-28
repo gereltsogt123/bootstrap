@@ -24,3 +24,7 @@ https://gereltsogt123.github.io/bootstrap/js.html
 https://gereltsogt123.github.io/bootstrap/tip.html
 <br>
 https://gereltsogt123.github.io/bootstrap/easy.html
+<br>
+https://gereltsogt123.github.io/bootstrap/nastootsooloh.html
+<br>
+https://gereltsogt123.github.io/bootstrap/biyiinindex.html
