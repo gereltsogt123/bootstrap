@@ -18,4 +18,9 @@ https://gereltsogt123.github.io/bootstrap/java.html
 <br>
 https://gereltsogt123.github.io/bootstrap/js.html
 <br>
+<br>
+<br>
+<br>
 https://gereltsogt123.github.io/bootstrap/tip.html
+<br>
+https://gereltsogt123.github.io/bootstrap/easy.html
